@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/SCENES/SampleScene.unity
+    guid: e1c482ab36b85e64c8aa08873369b2be
+  - enabled: 1
+    path: Assets/SCENES/Flight1.unity
+    guid: 51a1622dbdd3a4e2cbeffca3705197ab
+  - enabled: 1
+    path: Assets/SCENES/Flight2.unity
+    guid: 4ac6e800b46c34bf9a72e212a74b95a3
+  - enabled: 1
+    path: Assets/SCENES/Flight3.unity
+    guid: 8c55c81e40f7f4607953a8dc15f9375e
+  - enabled: 1
+    path: Assets/SCENES/Flight4.unity
+    guid: 688ab670648b040aeaf50ee6fa66a800
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/SCENES/Flight8.unity
+    guid: 069aa809595e640ad90e93db17f836a2
+  - enabled: 1
+    path: Assets/SCENES/Flight5_1.unity
+    guid: 3044d9c7d3dd84a2c9c6e39fa09838ce
+  - enabled: 1
+    path: Assets/SCENES/Flight6_1.unity
+    guid: 007d257a547fe4695a4b15788862933d
+  - enabled: 1
+    path: Assets/SCENES/Flight7_1.unity
+    guid: d550d03ff2e1c4f9da56bc8cd22a8ced
+  m_configObjects: {}
