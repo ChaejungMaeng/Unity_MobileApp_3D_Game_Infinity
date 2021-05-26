@@ -9,6 +9,8 @@
 일정 개수의 별을 다 모으면 AWESOME FLIGHT
 운석에 부딪히거나 타임아웃(3분) 되면 GAME OVER
 
+<img width="1440" alt="스크린샷 2019-06-13 오전 2 41 25" src="https://user-images.githubusercontent.com/38905066/119701715-a69f7180-be8f-11eb-9923-dd570319aeb6.png">
+
 
 MouseCrossHair
  : 사용자가 조종하는 십자 모양 핸들러
@@ -60,4 +62,11 @@ Supernova는 800 Range에 10개씩 랜덤하게 생성
 별(보석) 먹을 때 효과음 :  Score_swap_2_b
 운석 부딪힐 때 효과음 : Blow Distance
 
+<img width="1274" alt="스크린샷 2019-06-13 오전 3 59 34" src="https://user-images.githubusercontent.com/38905066/119701800-b9b24180-be8f-11eb-97ef-06df81104334.png">
+<img width="1440" alt="스크린샷 2019-06-13 오전 3 17 20" src="https://user-images.githubusercontent.com/38905066/119701810-bcad3200-be8f-11eb-9362-f1967706d4a6.png">
+<img width="1440" alt="스크린샷 2019-06-13 오전 3 15 47" src="https://user-images.githubusercontent.com/38905066/119701815-bf0f8c00-be8f-11eb-8ec8-c19ef99a4a66.png">
+<img width="1440" alt="스크린샷 2019-06-13 오전 3 15 25" src="https://user-images.githubusercontent.com/38905066/119701829-c171e600-be8f-11eb-8b84-330076385700.png">
+<img width="937" alt="스크린샷 2019-06-13 오전 1 04 58" src="https://user-images.githubusercontent.com/38905066/119701883-ce8ed500-be8f-11eb-9d69-2772495bf3dc.png">
+<img width="928" alt="스크린샷 2019-06-13 오전 1 05 30" src="https://user-images.githubusercontent.com/38905066/119701896-d3538900-be8f-11eb-9cf8-6982d3b5c460.png">
+<img width="967" alt="스크린샷 2019-06-13 오전 1 41 27" src="https://user-images.githubusercontent.com/38905066/119701926-d9496a00-be8f-11eb-9fe0-2ff3413d517d.png">
 
