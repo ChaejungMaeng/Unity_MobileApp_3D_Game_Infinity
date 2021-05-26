@@ -62,6 +62,8 @@ Supernova는 800 Range에 10개씩 랜덤하게 생성
 별(보석) 먹을 때 효과음 :  Score_swap_2_b
 운석 부딪힐 때 효과음 : Blow Distance
 
+## Play Scene Capture Images
+
 <img width="1274" alt="스크린샷 2019-06-13 오전 3 59 34" src="https://user-images.githubusercontent.com/38905066/119701800-b9b24180-be8f-11eb-97ef-06df81104334.png">
 <img width="1440" alt="스크린샷 2019-06-13 오전 3 17 20" src="https://user-images.githubusercontent.com/38905066/119701810-bcad3200-be8f-11eb-9362-f1967706d4a6.png">
 <img width="1440" alt="스크린샷 2019-06-13 오전 3 15 47" src="https://user-images.githubusercontent.com/38905066/119701815-bf0f8c00-be8f-11eb-8ec8-c19ef99a4a66.png">
