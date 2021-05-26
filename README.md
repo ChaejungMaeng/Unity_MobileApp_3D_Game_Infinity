@@ -2,7 +2,7 @@
 
 ## INFINITY made with Unity
 
-### 1. [게임 방식]
+## 1. 게임 방식
 - 비행기로 운석을 피하고 별(보석)을 모으며 달러 코인을 쌓음
 - 홈에서 달러 코인으로 새로운 우주선 구매하여 레벨 업
 - 한 레벨 업그레이드에 별이 하나씩 늘어나며 별의 단위 코인과 
@@ -12,7 +12,7 @@
 
 <img width="1440" alt="스크린샷 2019-06-13 오전 2 41 25" src="https://user-images.githubusercontent.com/38905066/119701715-a69f7180-be8f-11eb-9923-dd570319aeb6.png">
 
-### 2. Control
+## 2. Control
 ### MouseCrossHair
  : 사용자가 조종하는 십자 모양 핸들러
 
@@ -33,12 +33,12 @@ Yaw - Left/Right(좌우)
 
 Reference : https://github.com/brihernandez/ArcadeSpaceFlightExample
 
-### 3. Level : LV.1부터 LV.8까지
+## 3. Level : LV.1부터 LV.8까지
 30 > 70 > 120 > 180 
 > 240 > 300 > 350 > 400 
 레벨에 추가된 보석들, 하나당 모아지는 달러 코인 수 증가!
 
-### 4. Assets
+## 4. Assets
 
 ### 8 Levels, Different Airplanes
 + 프로펠러 애니메이션
@@ -59,7 +59,7 @@ Galaxy & Supernova
 Galaxy는 800 Range에 20개씩
 Supernova는 800 Range에 10개씩 랜덤하게 생성
 
-### 5. Sound Track
+## 5. Sound Track
 홈화면 배경음악 : happy_light_loop
 게임 배경음악  :  Starship_Briefing_[Free_Loop]
 비행기 프로펠러 소리 : hover
