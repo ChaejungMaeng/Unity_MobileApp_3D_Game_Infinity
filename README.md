@@ -2,7 +2,16 @@
 
 ## INFINITY made with Unity
 
-## 1. 게임 방식
+## 1. How to Play
+
+- Avoid meteorites by plane, collect stars (jewels) and stack dollar coins
+- Level up by purchasing new spacecraft from home with dollar coins
+- One more star for each level upgrade, with unit coins and 
+- Increase the number of stars that can be collected in a single flight
+- AWESOME FLIGHT when a certain number of stars are gathered
+- GAME OVER when hit by meteorite or timeout (3 minutes)
+
+## 게임 방식
 - 비행기로 운석을 피하고 별(보석)을 모으며 달러 코인을 쌓음
 - 홈에서 달러 코인으로 새로운 우주선 구매하여 레벨 업
 - 한 레벨 업그레이드에 별이 하나씩 늘어나며 별의 단위 코인과 
@@ -66,7 +75,12 @@ Supernova는 800 Range에 10개씩 랜덤하게 생성
 별(보석) 먹을 때 효과음 :  Score_swap_2_b
 운석 부딪힐 때 효과음 : Blow Distance
 
-## 6. Play Scene Capture Images
+## 6. Play Scene Video and Capture Images
+
+
+https://user-images.githubusercontent.com/38905066/119750513-75956000-bed4-11eb-8dd8-619178268b7c.mp4
+
+
 
 <img width="1274" alt="스크린샷 2019-06-13 오전 3 59 34" src="https://user-images.githubusercontent.com/38905066/119701800-b9b24180-be8f-11eb-97ef-06df81104334.png">
 <img width="1440" alt="스크린샷 2019-06-13 오전 3 17 20" src="https://user-images.githubusercontent.com/38905066/119701810-bcad3200-be8f-11eb-9362-f1967706d4a6.png">
